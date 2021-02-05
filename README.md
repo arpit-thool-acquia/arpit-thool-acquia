@@ -1,5 +1,5 @@
 ### Hi there 👋
-Associate Software Engineer at Acquia, Pune. I,m part of the Marketing Cloud team and work on Campaign Factory and Campaign Studio products.
+I am an Associate Software Engineer at Acquia, Pune. I am a part of the Marketing Cloud team and work on Campaign Factory and Campaign Studio products.
 <!--
 **arpit-thool-acquia/arpit-thool-acquia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
